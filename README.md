@@ -1,2 +1,2 @@
 # Git-Collaboration-Project-1
-Learning Git
+Vinit Santani and Vaibhav Pothireddy are learning about Git
