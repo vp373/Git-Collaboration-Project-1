@@ -1,2 +1,3 @@
 # Git-Collaboration-Project-1
-##Team Members: Vaibhav Pothireddy and Vinit Santani
+### Team Members: 
+Vaibhav Pothireddy and Vinit Santani
